@@ -7,7 +7,7 @@ https://file.ac/21euCO1oZvDOhHE7hllFUg/
 #### 12 Module #19 Slide 10/11
 
 1. Changed all videos to stills.
-2. Trimmed about 2 seconds from the first layed audio file (19.10b) and adjusted the closed caption to match the new timing.
+2. Trimmed 2 seconds from the first layer audio file (19.10b) and adjusted the closed caption to match the new timing.
 
 #### 19 Module #16 Slide 8/11
 
