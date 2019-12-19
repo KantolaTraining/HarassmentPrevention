@@ -1,4 +1,8 @@
-# *WA Manager Changelog*
+# *WA Manager*
+### Download:
+https://file.ac/21euCO1oZvDOhHE7hllFUg/
+
+## Changelog
 
 #### 12 Module #19 Slide 10/11
 
@@ -34,7 +38,4 @@ If modsFinished < value 17
 
 #### Replaced Delware with Washington in the SCORM description in the export settings.
 ![Image Before](https://github.com/KantolaTraining/HarassmentPrevention/blob/master/WA/IMAGES/SCMEX.png)
-
-### Download:
-https://file.ac/21euCO1oZvDOhHE7hllFUg/
 
