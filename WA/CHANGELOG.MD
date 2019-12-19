@@ -7,14 +7,14 @@
 
 #### 19 Module #16 Slide 8/11
 
-Before
+*Before*
 
 1. Changed the text in the slide
 2. Added a hotspot to open eeoc.gov when user clicks
 
 ![Image Before](https://github.com/KantolaTraining/HarassmentPrevention/blob/master/WA/IMAGES/SCM19S10.png)
 
-After
+*After*
 
 ![Image Before](https://github.com/KantolaTraining/HarassmentPrevention/blob/master/WA/IMAGES/SCM19S10A.png)
 
